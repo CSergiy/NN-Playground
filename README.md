@@ -68,6 +68,7 @@ This project aims to explore and implement various neural network architectures 
 
 ## Future Steps
 The following are the planned future steps for this project:
+- Finish adding different forms of NN to test
 - Further exploration of neural network architectures.
 - Fine-tuning and optimization of implemented networks.
 - Experimentation with additional datasets and scenarios.
