@@ -4,6 +4,7 @@
 - [About](#about)
 - [Nodes and Architectures](#nodes-and-architectures)
 - [Implemented Networks](#implemented-networks)
+- [Future Networks to Implement](#future-networks-to-implement)
 - [Prerequisites](#prerequisites)
 - [Results](#results)
 - [Future Steps](#future-steps)
@@ -28,8 +29,10 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Pool
 
 ## Implemented Networks
-- Perceptron
-- Feed Forward
+- Perceptron (P)
+- Feed Forward (FF)
+
+## Future Networks to Implement
 - RBF
 - DFF
 - RNN
@@ -46,7 +49,7 @@ This repository is dedicated to exploring and testing the implementation of vari
 - DBN
 - DCN
 - DN
-- Deep Convolutional Inverse Graphic Network
+- DCIGN
 - GAN
 - LSM
 - ELM
