@@ -31,9 +31,9 @@ This repository is dedicated to exploring and testing the implementation of vari
 ## Implemented Networks
 - Perceptron (P)
 - Feed Forward (FF)
+- Radial Basis Network (RBF)
 
 ## Future Networks to Implement
-- RBF
 - DFF
 - RNN
 - LSTM
