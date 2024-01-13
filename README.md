@@ -32,10 +32,10 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Perceptron (P)
 - Feed Forward (FF)
 - Radial Basis Network (RBF)
+- Recurrent Neural NEtwork (RNN)
 
 ## Future Networks to Implement
 - DFF
-- RNN
 - LSTM
 - GRU
 - AE
