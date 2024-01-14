@@ -33,9 +33,9 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Feed Forward (FF)
 - Radial Basis Network (RBF)
 - Recurrent Neural NEtwork (RNN)
+- Deep Feed Forward (DFF)
 
 ## Future Networks to Implement
-- DFF
 - LSTM
 - GRU
 - AE
