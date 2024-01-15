@@ -34,9 +34,9 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Radial Basis Network (RBF)
 - Recurrent Neural NEtwork (RNN)
 - Deep Feed Forward (DFF)
+- Long Short Term Memory (LSTM)
 
 ## Future Networks to Implement
-- LSTM
 - GRU
 - AE
 - VAE
