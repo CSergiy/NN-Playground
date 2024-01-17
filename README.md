@@ -10,7 +10,7 @@
 - [Future Steps](#future-steps)
 
 ## About
-This repository is dedicated to exploring and testing the implementation of various neural network architectures for personal educational purposes. The project starts by following a chart that outlines different types of nodes, including backfed input cell, input cell, noisy input cell, hidden cell, probabilistic hidden cell, spiking hidden cell, output cell, matching input output cell, recurrent cell, memory cell, different memory cell, keynel, convolution, or pool.
+This repository is dedicated to exploring and testing the implementation of various neural network architectures for personal educational purposes. 
 
 ## Nodes and Architectures
 - Backfed Input Cell
