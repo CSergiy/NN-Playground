@@ -35,10 +35,10 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Recurrent Neural NEtwork (RNN)
 - Deep Feed Forward (DFF)
 - Long Short Term Memory (LSTM)
-- Gated Recurrent Unit(GRU)
+- Gated Recurrent Unit (GRU)
+- Auto Encoder (AE)
 
 ## Future Networks to Implement
-- AE
 - VAE
 - DAE
 - SAE
