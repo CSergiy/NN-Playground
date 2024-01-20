@@ -37,9 +37,9 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Long Short Term Memory (LSTM)
 - Gated Recurrent Unit (GRU)
 - Auto Encoder (AE)
+- Variational Auto Encoder (VAE)
 
 ## Future Networks to Implement
-- VAE
 - DAE
 - SAE
 - MC
