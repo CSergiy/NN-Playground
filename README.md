@@ -38,9 +38,9 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Gated Recurrent Unit (GRU)
 - Auto Encoder (AE)
 - Variational Auto Encoder (VAE)
+- Denoising Auto Encoder (DAE)
 
 ## Future Networks to Implement
-- DAE
 - SAE
 - MC
 - HN
