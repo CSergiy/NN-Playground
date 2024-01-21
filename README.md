@@ -63,7 +63,7 @@ This repository is dedicated to exploring and testing the implementation of vari
 To run this project, make sure you have the following packages installed:
 
 ```sh
-pip install [to be added in future]
+pip install numpy torch
 ```
 
 ## Results
