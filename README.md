@@ -39,9 +39,9 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Auto Encoder (AE)
 - Variational Auto Encoder (VAE)
 - Denoising Auto Encoder (DAE)
+- Sparse Auto Encoder (SAE)
 
 ## Future Networks to Implement
-- SAE
 - MC
 - HN
 - BM
