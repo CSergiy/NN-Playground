@@ -40,9 +40,8 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Variational Auto Encoder (VAE)
 - Denoising Auto Encoder (DAE)
 - Sparse Auto Encoder (SAE)
-
+- Markov Chain (MC)
 ## Future Networks to Implement
-- MC
 - HN
 - BM
 - RBM
