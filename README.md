@@ -41,8 +41,8 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Denoising Auto Encoder (DAE)
 - Sparse Auto Encoder (SAE)
 - Markov Chain (MC)
+- Hopfield Network (HN)
 ## Future Networks to Implement
-- HN
 - BM
 - RBM
 - DBN
