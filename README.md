@@ -44,7 +44,6 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Hopfield Network (HN)
 - Boltzmann Machine (BM)
 ## Future Networks to Implement
-- BM
 - RBM
 - DBN
 - DCN
