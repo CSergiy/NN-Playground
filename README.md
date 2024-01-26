@@ -43,8 +43,8 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Markov Chain (MC)
 - Hopfield Network (HN)
 - Boltzmann Machine (BM)
+- Restricted Boltzmann Machine (RBM)
 ## Future Networks to Implement
-- RBM
 - DBN
 - DCN
 - DN
