@@ -42,6 +42,7 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Sparse Auto Encoder (SAE)
 - Markov Chain (MC)
 - Hopfield Network (HN)
+- Boltzmann Machine (BM)
 ## Future Networks to Implement
 - BM
 - RBM
