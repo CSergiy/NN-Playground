@@ -44,8 +44,8 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Hopfield Network (HN)
 - Boltzmann Machine (BM)
 - Restricted Boltzmann Machine (RBM)
+- Deep Belief Network (DBN)
 ## Future Networks to Implement
-- DBN
 - DCN
 - DN
 - DCIGN
