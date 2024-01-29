@@ -46,8 +46,8 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Restricted Boltzmann Machine (RBM)
 - Deep Belief Network (DBN)
 - Deep Convolutional Network (DCN)
+- Deconvolutional Network (DN)
 ## Future Networks to Implement
-- DN
 - DCIGN
 - GAN
 - LSM
