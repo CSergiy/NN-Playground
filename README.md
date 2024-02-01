@@ -47,8 +47,8 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Deep Belief Network (DBN)
 - Deep Convolutional Network (DCN)
 - Deconvolutional Network (DN)
+- Deep Convolutional Inverse Graphics Network (DCIGN)
 ## Future Networks to Implement
-- DCIGN
 - GAN
 - LSM
 - ELM
