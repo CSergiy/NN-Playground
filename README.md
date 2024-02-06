@@ -49,6 +49,7 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Deconvolutional Network (DN)
 - Deep Convolutional Inverse Graphics Network (DCIGN)
 - Generative Adversarial Network (GAN)
+- Spiking Neural Network (SNN)
 ## Future Networks to Implement
 - LSM
 - ELM
