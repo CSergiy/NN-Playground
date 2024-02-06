@@ -50,8 +50,8 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Deep Convolutional Inverse Graphics Network (DCIGN)
 - Generative Adversarial Network (GAN)
 - Spiking Neural Network (SNN)
+- Liquid State Machine (LSM)
 ## Future Networks to Implement
-- LSM
 - ELM
 - ESN
 - DRN
