@@ -51,8 +51,8 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Generative Adversarial Network (GAN)
 - Spiking Neural Network (SNN)
 - Liquid State Machine (LSM)
+- Extreme Learning Machine (ESM)
 ## Future Networks to Implement
-- ELM
 - ESN
 - DRN
 - KN
