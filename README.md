@@ -53,8 +53,8 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Liquid State Machine (LSM)
 - Extreme Learning Machine (ELM)
 - Echo State Network (ESN)
+- Deep Residual Network (DRN) / (ResNet)
 ## Future Networks to Implement
-- DRN
 - KN
 - SVM
 - NTM
