@@ -54,8 +54,8 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Extreme Learning Machine (ELM)
 - Echo State Network (ESN)
 - Deep Residual Network (DRN) / (ResNet)
+- Kohonen Networks (KN) / Self-Organizing Feature Map (SOFM)
 ## Future Networks to Implement
-- KN
 - SVM
 - NTM
 
