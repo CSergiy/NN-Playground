@@ -13,20 +13,7 @@
 This repository is a comprehensive exploration into the implementation and understanding of various neural network architectures. It serves as a personal educational journey into the depths of neural network functionalities, designs, and their applications across different data types and tasks. 
 
 ## Nodes and Architectures
-- Backfed Input Cell
-- Input Cell
-- Noisy Input Cell
-- Hidden Cell
-- Probabilistic Hidden Cell
-- Spiking Hidden Cell
-- Output Cell
-- Matching Input Output Cell
-- Recurrent Cell
-- Memory Cell
-- Different Memory Cell
-- Keynel
-- Convolution
-- Pool
+The project delves into numerous neural network components and architectures, offering insights into both conventional and contemporary models. Each node and architecture is implemented with a focus on understanding the underlying principles and practical applications.
 
 ## Implemented Networks
 - Perceptron (P)
