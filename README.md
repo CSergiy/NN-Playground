@@ -16,35 +16,15 @@ This repository is a comprehensive exploration into the implementation and under
 The project delves into numerous neural network components and architectures, offering insights into both conventional and contemporary models. Each node and architecture is implemented with a focus on understanding the underlying principles and practical applications.
 
 ## Implemented Networks
-- Perceptron (P)
-- Feed Forward (FF)
-- Radial Basis Network (RBF)
-- Recurrent Neural NEtwork (RNN)
-- Deep Feed Forward (DFF)
-- Long Short Term Memory (LSTM)
-- Gated Recurrent Unit (GRU)
-- Auto Encoder (AE)
-- Variational Auto Encoder (VAE)
-- Denoising Auto Encoder (DAE)
-- Sparse Auto Encoder (SAE)
-- Markov Chain (MC)
-- Hopfield Network (HN)
-- Boltzmann Machine (BM)
-- Restricted Boltzmann Machine (RBM)
-- Deep Belief Network (DBN)
-- Deep Convolutional Network (DCN)
-- Deconvolutional Network (DN)
-- Deep Convolutional Inverse Graphics Network (DCIGN)
-- Generative Adversarial Network (GAN)
-- Spiking Neural Network (SNN)
-- Liquid State Machine (LSM)
-- Extreme Learning Machine (ELM)
-- Echo State Network (ESN)
-- Deep Residual Network (DRN) / (ResNet)
-- Kohonen Networks (KN) / Self-Organizing Feature Map (SOFM)
-- Support Vector Machine (SVM)
-- Neural Turing Machine (NTM)
-## Future Networks to Implement
+The repository boasts a wide array of neural networks, ranging from foundational models to advanced architectures:
+
+- Basic Models: Perceptron, Feed Forward, Radial Basis Function Network
+- Recurrent and Memory Models: RNN, LSTM, GRU, NTM
+- Autoencoders: AE, VAE, DAE, SAE
+- Advanced Models: Markov Chain, Hopfield Network, Boltzmann Machine, Restricted Boltzmann Machine, Deep Belief Network, Deep Convolutional Network, GAN
+- Novel Architectures: SNN, LSM, ELM, ESN, ResNet, Kohonen Network (SOFM), SVM
+
+Each model is accompanied by a detailed description, including its high-level overview, applicable data types, objectives, scalability considerations, and practical application guidance.
 
 ## Prerequisites
 To run this project, make sure you have the following packages installed:
