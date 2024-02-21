@@ -56,8 +56,8 @@ This repository is dedicated to exploring and testing the implementation of vari
 - Deep Residual Network (DRN) / (ResNet)
 - Kohonen Networks (KN) / Self-Organizing Feature Map (SOFM)
 - Support Vector Machine (SVM)
+- Neural Turing Machine (NTM)
 ## Future Networks to Implement
-- NTM
 
 ## Prerequisites
 To run this project, make sure you have the following packages installed:
