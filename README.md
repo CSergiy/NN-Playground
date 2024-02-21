@@ -39,6 +39,9 @@ pip install numpy torch
 ## Results
 The project includes a Results section, showcasing the performance and insights gained from experimenting with the different neural networks. This section aims to highlight the capabilities and limitations of each implemented model across various tasks.
 
+## Acknowledgments
+This project draws inspiration from the vast body of research and development in neural networks. Special thanks to the AI and machine learning community for the wealth of knowledge and resources that have made this exploration possible.
+
 ## Future Steps
 
 As the field of machine learning continues to evolve rapidly, so too will this project. The aim is not only to keep pace with but also to delve into the forefront of neural network research and applications. Future steps include:
