@@ -40,8 +40,12 @@ pip install numpy torch
 The project includes a Results section, showcasing the performance and insights gained from experimenting with the different neural networks. This section aims to highlight the capabilities and limitations of each implemented model across various tasks.
 
 ## Future Steps
-The following are the planned future steps for this project:
-- Finish adding different forms of NN to test
-- Further exploration of neural network architectures.
-- Fine-tuning and optimization of implemented networks.
-- Experimentation with additional datasets and scenarios.
+
+As the field of machine learning continues to evolve rapidly, so too will this project. The aim is not only to keep pace with but also to delve into the forefront of neural network research and applications. Future steps include:
+
+- **Implementing State-of-the-Art Neural Networks**: To explore and understand the mechanisms and capabilities of cutting-edge models, continuously expanding the repository's scope.
+- **Collaboration and Community Contributions**: Inviting machine learning enthusiasts, researchers, and practitioners to contribute ideas, implementations, and improvements, fostering a collaborative environment for shared growth.
+- **Expanding Educational Content**: Enhancing the repository with more detailed explanations, tutorials, and use cases to serve as a comprehensive learning resource for individuals at all stages of their machine learning journey.
+
+Stay tuned for updates and feel free to contribute or suggest new networks and features you're excited about!
+
