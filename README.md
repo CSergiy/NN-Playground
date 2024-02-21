@@ -33,7 +33,7 @@ To experiment with any implemented network, navigate to the respective directory
 To run this project, make sure you have the following packages installed:
 
 ```sh
-pip install numpy torch
+pip install numpy torch 
 ```
 
 ## Results
