@@ -10,7 +10,7 @@
 - [Future Steps](#future-steps)
 
 ## About
-This repository is dedicated to exploring and testing the implementation of various neural network architectures for personal educational purposes. 
+This repository is a comprehensive exploration into the implementation and understanding of various neural network architectures. It serves as a personal educational journey into the depths of neural network functionalities, designs, and their applications across different data types and tasks. 
 
 ## Nodes and Architectures
 - Backfed Input Cell
