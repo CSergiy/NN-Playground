@@ -37,7 +37,7 @@ pip install numpy torch
 ```
 
 ## Results
-This project aims to explore and implement various neural network architectures for educational purposes. As of now, the project is in its early stages, and results will be updated and added to the respective sections as the implementation progresses.
+The project includes a Results section, showcasing the performance and insights gained from experimenting with the different neural networks. This section aims to highlight the capabilities and limitations of each implemented model across various tasks.
 
 ## Future Steps
 The following are the planned future steps for this project:
