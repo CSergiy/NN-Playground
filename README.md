@@ -54,6 +54,9 @@ For each neural network explored in this project, a structured approach is adopt
 This project draws inspiration from the vast body of research and development in neural networks. Special thanks to the AI and machine learning community for the wealth of knowledge and resources that have made this exploration possible.
 
 ## Future Steps
+**Still in Progress**: 
+-Updating structure of NNs to follow logical organized structur noted above in implemented networks section.
+-Updating descriptions of NN to be consistent with new format
 
 As the field of machine learning continues to evolve rapidly, so too will this project. The aim is not only to keep pace with but also to delve into the forefront of neural network research and applications. Future steps include:
 
