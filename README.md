@@ -4,9 +4,10 @@
 - [About](#about)
 - [Nodes and Architectures](#nodes-and-architectures)
 - [Implemented Networks](#implemented-networks)
-- [Future Networks to Implement](#future-networks-to-implement)
+- [Usage Instructions](#usage-instructions)
 - [Prerequisites](#prerequisites)
 - [Results](#results)
+- [Acknowledgments](#acknowledgments)
 - [Future Steps](#future-steps)
 
 ## About
