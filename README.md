@@ -39,8 +39,13 @@ The repository boasts a wide array of neural networks, ranging from foundational
 
 #### Deep Learning Architectures:
 - **Core Architectures**: 
-  - Autoencoders (AE, VAE, DAE, SAE)
+  - **Autoencoders**
+      - **AE**
+      - **VAE**
+      - **DAE**
+      - **SAE**
   - Deep Convolutional Network (DCN)
+  
 - **Recurrent and Memory Models**: 
   - RNN
   - LSTM
