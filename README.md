@@ -29,11 +29,40 @@ The project delves into numerous neural network components and architectures, of
 ## Implemented Networks
 The repository boasts a wide array of neural networks, ranging from foundational models to advanced architectures:
 
-- **Basic Models**: Perceptron, Feed Forward, Radial Basis Function Network
-- **Recurrent and Memory Models**: RNN, LSTM, GRU, NTM
-- **Autoencoders**: AE, VAE, DAE, SAE
-- **Advanced Models**: Markov Chain, Hopfield Network, Boltzmann Machine, Restricted Boltzmann Machine, Deep Belief Network, Deep Convolutional Network, GAN
-- **Novel Architectures**: SNN, LSM, ELM, ESN, ResNet, Kohonen Network (SOFM), SVM
+#### Foundational Models:
+- **Basic Neural Networks**: 
+  - Perceptron
+  - Feed Forward
+  - Radial Basis Function Network
+- **Deep Learning Essentials**: 
+  - Deep Feed Forward (DFF)
+
+#### Deep Learning Architectures:
+- **Core Architectures**: 
+  - Autoencoders (AE, VAE, DAE, SAE)
+  - Deep Convolutional Network (DCN)
+- **Recurrent and Memory Models**: 
+  - RNN
+  - LSTM
+  - GRU
+  - NTM
+
+#### Advanced Concepts:
+- **Probabilistic and Generative Models**: 
+  - Markov Chain
+  - Hopfield Network
+  - Boltzmann Machine
+  - Restricted Boltzmann Machine
+  - Deep Belief Network
+  - GAN
+- **Hybrid and Specialized Models**: 
+  - SNN
+  - LSM
+  - ELM
+  - ESN
+  - ResNet
+  - Kohonen Network (SOFM)
+  - SVM
 
 Each model is accompanied by a detailed description, including its high-level overview, applicable data types, objectives, scalability considerations, and practical application guidance.
 
