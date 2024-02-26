@@ -44,8 +44,11 @@ The repository boasts a wide array of neural networks, ranging from foundational
       - **VAE**
       - **DAE**
       - **SAE**
-  - Deep Convolutional Network (DCN)
-  
+  - **Convolutional Network Architectures**: 
+      - **Deep Convolutional Network (DCN)**
+      - **Deconvolutional Network (DN)**     
+      - **Deep Convolutional Inverse Graphics Network (DCIGN)**
+      
 - **Recurrent and Memory Models**: 
   - RNN
   - LSTM
