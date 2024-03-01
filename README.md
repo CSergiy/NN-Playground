@@ -32,45 +32,46 @@ The repository boasts a wide array of neural networks, ranging from foundational
 #### Foundational Models:
 - **Basic Neural Networks**: 
   - Perceptron
-  - Feed Forward
+  - Feed Forward Neural Network
   - Radial Basis Function Network
 - **Deep Learning Essentials**: 
-  - Deep Feed Forward (DFF)
+  - Deep Feed Forward Neural Network (DFF)
 
 #### Deep Learning Architectures:
 - **Core Architectures**: 
   - **Autoencoders**
-      - **AE**
-      - **VAE**
-      - **DAE**
-      - **SAE**
+      - **Autoencoder (AE)**
+      - **Variational Autoencoder (VAE)**
+      - **Denoising Autoencoder (DAE)**
+      - **Sparse Autoencoder (SAE)**
   - **Convolutional Network Architectures**: 
       - **Deep Convolutional Network (DCN)**
       - **Deconvolutional Network (DN)**     
       - **Deep Convolutional Inverse Graphics Network (DCIGN)**
       
 - **Recurrent and Memory Models**: 
-  - RNN
-  - LSTM
-  - GRU
-  - NTM
+  - Recurrent Neural Network (RNN)
+  - Long Short-Term Memory (LSTM)
+  - Gated Recurrent Unit (GRU)
+  - Neural Turing Machine (NTM)
 
 #### Advanced Concepts:
 - **Probabilistic and Generative Models**: 
   - Markov Chain
   - Hopfield Network
   - Boltzmann Machine
-  - Restricted Boltzmann Machine
-  - Deep Belief Network
-  - GAN
+  - Restricted Boltzmann Machine (RBM)
+  - Deep Belief Network (DBN)
+  - Generative Adversarial Network (GAN)
 - **Hybrid and Specialized Models**: 
-  - SNN
-  - LSM
-  - ELM
-  - ESN
-  - ResNet
-  - Kohonen Network (SOFM)
-  - SVM
+  - Spiking Neural Network (SNN)
+  - Liquid State Machine (LSM)
+  - Extreme Learning Machine (ELM)
+  - Echo State Network (ESN)
+  - Deep Residual Network (ResNet)
+  - Kohonen Network (Self-Organizing Feature Map, SOFM)
+  - Support Vector Machine (SVM)
+
 
 Each model is accompanied by a detailed description, including its high-level overview, applicable data types, objectives, scalability considerations, and practical application guidance.
 
